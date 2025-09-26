@@ -72,9 +72,9 @@ This repository contains a **full-stack example** demonstrating different approa
    https://localhost:5099
 
 ### React UI
-1. Go to `ReactUI_BFF` folder:
+1. Go to `ReactUI_BFF` folder:   http://localhost:54453/
    ```bash
    cd ReactUI_BFF
    npm install
    npm run dev
-      http://localhost:54453/
+     
