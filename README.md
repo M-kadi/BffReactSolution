@@ -66,8 +66,10 @@ This repository contains a **full-stack example** demonstrating different approa
 
 ### Backend
 1. Open solution in **Visual Studio 2022**.
-2. Set **BffServer** as startup project.
-3. Run the server (it will start with HTTPS, e.g., `https://localhost:54451`).
+2. Run **JwtApi** Project
+   https://localhost:54451/
+4. Run **BffServer** Project
+   https://localhost:5099
 
 ### React UI
 1. Go to `ReactUI_BFF` folder:
@@ -75,3 +77,4 @@ This repository contains a **full-stack example** demonstrating different approa
    cd ReactUI_BFF
    npm install
    npm run dev
+      http://localhost:54453/
